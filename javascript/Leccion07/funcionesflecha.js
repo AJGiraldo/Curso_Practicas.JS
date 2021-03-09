@@ -11,7 +11,12 @@ console.log(resultado);
 
 const sumarFuncionTipoFlecha = (a, b) => a + b;
 
+resultado = sumarFuncionTipoFlecha(5, 6);
+console.log(resultado);
+
 /*
-cambio de prueba rama Esutdiojs en git 
-seguido lo subire ha github.Esutdiojs.Esutdiojs.Esutdiojs. 
+cambio de prueba rama Esutdiojs en git
+seguido lo subire ha github.Esutdiojs.Esutdiojs.Esutdiojs.
 */
+
+//parametro y argumentos en js
